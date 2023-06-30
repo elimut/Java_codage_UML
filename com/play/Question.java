@@ -4,7 +4,7 @@ public class Question {
     
     private String question;
 
-    public boolean getQuestion() {
+    public String getQuestion() {
         return question;
     }
 
